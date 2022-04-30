@@ -1,3 +1,4 @@
-# The J.P. Morgan Software Engineering Virtual Experience
+# Software Engineering Virtual Experience Walkthrough
 
-Task 1: Interface with a stock price data feed
+blah blah blah
+## Task 1

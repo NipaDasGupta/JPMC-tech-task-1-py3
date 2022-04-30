@@ -70,4 +70,5 @@ npm -v
 * Install Visual C++ Build Tool and select "Desktop development with C++" setup to install, then run this command on command prompt:
 <pre>
 npm config set msbuild_path "C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\MSBuild.exe"
+npm install
 </pre>

@@ -52,3 +52,12 @@ git clone https://github.com/insidesherpa/JPMC-tech-task-2-py3.git
 cd JPMC-tech-task-2-PY3
 python datafeed/server3.py
 </pre>
+* For local setup, install the other remaining dependencies i.e. Node and Npm. To install node and npm and be able to manage versions seamlessly you will install NVM (node version manager) from https://github.com/coreybutler/nvm-windows and then run the command prompt as <i>Administrator mode</i> and you should get something similar to the pic below:
+<pre>
+nvm install latest
+</pre>
+![image](https://user-images.githubusercontent.com/89456649/166103492-36e3570c-37f9-4d99-947d-468a19179b24.png)
+Type 'nvm use 18.0.0', the version may update and check the nvm list use this command:
+<pre>
+nvm list
+</pre>

@@ -40,3 +40,10 @@ git format-patch -1 HEAD
 </pre>
 * Share the patch file on the right module page
 <br/><br/>
+<b>Task 2: Use JPMorgan Chase frameworks and tools
+</br>
+* Clone the "JPMC-tech-task-2-py3" repository using this command:
+<pre>
+git clone https://github.com/insidesherpa/JPMC-tech-task-2-py3.git
+</pre>
+

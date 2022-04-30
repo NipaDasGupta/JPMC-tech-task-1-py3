@@ -52,3 +52,4 @@ git clone https://github.com/insidesherpa/JPMC-tech-task-2-py3.git
 cd JPMC-tech-task-2-PY3
 python datafeed/server3.py
 </pre>
+![image](https://user-images.githubusercontent.com/89456649/166102697-2e5eff89-8002-45e9-a3a8-8d5b8ad86b49.png)

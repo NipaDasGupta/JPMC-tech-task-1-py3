@@ -66,4 +66,5 @@ Once installation is completed successfully, execute this command on the command
 node -v
 npm -v
 </pre>
-![image](https://user-images.githubusercontent.com/89456649/166103856-cc1b10d7-eb19-48d1-a58c-5e7a9cf61028.png)
+![image](https://user-images.githubusercontent.com/89456649/166104012-0109dc2e-c1b1-4870-af54-9015275b89e7.png)
+

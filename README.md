@@ -39,7 +39,7 @@ git commit -m 'Create Patch File'
 git format-patch -1 HEAD
 </pre>
 * Share the patch file on the right module page
-<br/><br/>
+<br/>
 <b>Task 2:</b> Use JPMorgan Chase frameworks and tools
 
 * Clone the "JPMC-tech-task-2-py3" repository using this command:

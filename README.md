@@ -3,8 +3,7 @@
 blah blah blah
 ## Tasks
 <br />
-<b>Task 1:</b> Interface with a stock price data feed
-
+<b>Task 1:</b> Interface with a stock price data feed </br>
 * Clone the "JPMC-tech-task-1-py3" repository using this command:
 <pre>
 git clone https://github.com/insidesherpa/JPMC-tech-task-1-py3.git
@@ -21,8 +20,7 @@ python server3.py
 python client3.py
 </pre>
 
-<b>Error:</b> No module named ‘dateutil.parser’
-
+<b>Error:</b> No module named ‘dateutil.parser’ </br>
 <b>Solution:</b> Install this module
 <pre>
 pip install python-dateutil

@@ -23,7 +23,7 @@ python client3.py
 </pre>
 
 * Make Changes to code using VSCode or SublimeText editor in <b>'Client3.py'</b> in three areas.
-* Write Unit test cases in 'client_test.py'
+* Write Unit test cases in 'client_test.py' and add more unit tests
 <pre>
 for quote in quotes:
 self.assertEqual(getDataPoint(quote), (quote['stock'], quote['top_bid']['price'], quote['top_ask']['price'], (quote['top_bid']['price'] + quote['top_ask']['price'])/2))
@@ -37,7 +37,7 @@ git config user.email "<your_email_address>"
 git config user.name "<your_name>"
 git commit -m 'Create Patch File'
 git format-patch -1 HEAD
-</br>
+
 * Share the patch file on the right module page
 </pre>
 <br/><br/>

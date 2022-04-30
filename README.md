@@ -16,13 +16,13 @@ git clone https://github.com/insidesherpa/JPMC-tech-task-1-py3.git
 python --version
 </pre>
 
-* For local setup, run the command prompt as <i>Administrator mode</i> on two different window and run this command to start server and client script at the same time:
+* For local setup, run the command prompt as <i>Administrator mode</i> on two different window and run this command to start server and client script at the same time and you should get something similar to the pic below:
 <pre>
 cd JPMC-tech-task-1-py3
 python server3.py
 python client3.py
 </pre>
-
+![image](https://user-images.githubusercontent.com/89456649/166102697-2e5eff89-8002-45e9-a3a8-8d5b8ad86b49.png)
 * Make Changes to code using VSCode or SublimeText editor in 'Client3.py' in three areas.
 * Write Unit test cases in 'client_test.py' and add more unit tests
 <pre>
@@ -47,7 +47,7 @@ git format-patch -1 HEAD
 <pre>
 git clone https://github.com/insidesherpa/JPMC-tech-task-2-py3.git
 </pre>
-* Start the server application in one terminal using this command:
+* Start the server application in one terminal using this command and you should get something similar to the pic below:
 <pre>
 cd JPMC-tech-task-2-PY3
 python datafeed/server3.py

@@ -3,6 +3,7 @@
 blah blah blah
 ## Tasks
 <br />
+
 <b>Task 1:</b> Interface with a stock price data feed 
 </br>
 * Clone the "JPMC-tech-task-1-py3" repository using this command:

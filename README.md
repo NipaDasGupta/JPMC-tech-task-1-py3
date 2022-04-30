@@ -71,4 +71,5 @@ npm -v
 <pre>
 npm config set msvs_version 2017
 npm install
+npm start
 </pre>

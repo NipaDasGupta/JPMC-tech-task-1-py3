@@ -16,7 +16,7 @@ git clone https://github.com/insidesherpa/JPMC-tech-task-1-py3.git
 python --version
 </pre>
 
-* For local setup, run the command prompt as <b>Administrator mode</b> on two different window and run this command to start server and client script at the same time:
+* For local setup, run the command prompt as <i>Administrator mode</i> on two different window and run this command to start server and client script at the same time:
 <pre>
 python server3.py
 python client3.py

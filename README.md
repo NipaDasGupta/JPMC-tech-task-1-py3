@@ -1,4 +1,4 @@
-# Software Engineering Virtual Experience Walkthrough
+# Software Engineering Virtual Experience :walking:
 
 blah blah blah
 ## Tasks

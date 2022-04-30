@@ -63,6 +63,6 @@ nvm list
 </pre>
 Once installation is completed successfully, execute this command on the command prompt:
 <pre>
-node --version
-npm --version
+node -v
+npm -v
 </pre>

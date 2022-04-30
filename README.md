@@ -57,7 +57,7 @@ python datafeed/server3.py
 nvm install latest
 </pre>
 ![image](https://user-images.githubusercontent.com/89456649/166103492-36e3570c-37f9-4d99-947d-468a19179b24.png)
-Type 'nvm use 18.0.0', the version may update and check the nvm list use this command:
+</br>Type 'nvm use 18.0.0', the version may update and check the nvm list use this command:
 <pre>
 nvm list
 </pre>

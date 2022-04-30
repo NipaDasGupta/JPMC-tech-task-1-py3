@@ -18,6 +18,7 @@ python --version
 
 * For local setup, run the command prompt as <i>Administrator mode</i> on two different window and run this command to start server and client script at the same time:
 <pre>
+cd JPMC-tech-task-1-py3
 python server3.py
 python client3.py
 </pre>
@@ -46,4 +47,8 @@ git format-patch -1 HEAD
 <pre>
 git clone https://github.com/insidesherpa/JPMC-tech-task-2-py3.git
 </pre>
-
+* Start the server application in one terminal using this command:
+<pre>
+cd JPMC-tech-task-2-PY3
+python datafeed/server3.py
+</pre>

@@ -22,7 +22,7 @@ python server3.py
 python client3.py
 </pre>
 
-* Make Changes to code using VSCode or SublimeText editor in <b>'Client3.py'</b> in three areas.
+* Make Changes to code using VSCode or SublimeText editor in 'Client3.py' in three areas.
 * Write Unit test cases in 'client_test.py' and add more unit tests
 <pre>
 for quote in quotes:

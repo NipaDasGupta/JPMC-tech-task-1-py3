@@ -67,4 +67,7 @@ node -v
 npm -v
 </pre>
 ![image](https://user-images.githubusercontent.com/89456649/166104012-0109dc2e-c1b1-4870-af54-9015275b89e7.png)
-
+* Install Visual C++ Build Tool and select "Desktop development with C++" setup to install, then run this command on command prompt:
+<pre>
+npm config set msbuild_path "C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\MSBuild.exe"
+</pre>

@@ -33,8 +33,8 @@ self.assertEqual(getDataPoint(quote), (quote['stock'], quote['top_bid']['price']
 cd JPMC-tech-task-1-py3
 git init
 git add -A
-git config user.email "<your_email_address>"
-git config user.name "<your_name>"
+git config user.email "your_email_address"
+git config user.name "your_name"
 git commit -m 'Create Patch File'
 git format-patch -1 HEAD
 </pre>

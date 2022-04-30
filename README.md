@@ -37,8 +37,6 @@ git config user.email "<your_email_address>"
 git config user.name "<your_name>"
 git commit -m 'Create Patch File'
 git format-patch -1 HEAD
-
-
-* Share the patch file on the right module page
 </pre>
+* Share the patch file on the right module page
 <br/><br/>

@@ -87,3 +87,15 @@ git commit -m 'Create Patch File'
 git format-patch -1 HEAD
 </pre>
 * Share your patch file on the right module page
+</br>
+<b>Task 3:</b> Display data visually for traders
+
+* Clone the "JPMC-tech-task-3-py3" repository using this command:
+<pre>
+git clone https://github.com/insidesherpa/JPMC-tech-task-2-py3.git
+</pre>
+* Start the server application in one terminal using this command:
+<pre>
+cd JPMC-tech-task-3-py3
+python datafeed/server3.py
+</pre>

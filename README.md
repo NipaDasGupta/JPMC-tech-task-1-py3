@@ -75,3 +75,4 @@ npm start
 </pre>
 It'll open index page called 'Bank & Merge Co Task 2" in a localhost portal 3000  :tada:, then click the <b>'Start Streaming Data'</b> button as shown below:  
 ![image](https://user-images.githubusercontent.com/89456649/166106636-d4e3761e-e7de-4a08-bd50-2d25ee983a39.png)
+* Time to open VSCode to alter the 'App.tsx' to the client side react application

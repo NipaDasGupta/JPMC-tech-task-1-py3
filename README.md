@@ -99,7 +99,7 @@ git clone https://github.com/insidesherpa/JPMC-tech-task-3-py3.git
 cd JPMC-tech-task-3-py3
 python datafeed/server3.py
 </pre>
-* For the local setup, use this command and if you run through an error, then follow the <a href="https://github.com/NipaDasGupta/TechTask/blob/main/Error%20Guide.md">Error Guide.md</a> in this folder:
+* For the local setup, use these commands and if you go through an error, then follow the <a href="https://github.com/NipaDasGupta/TechTask/blob/main/Error%20Guide.md">Error Guide.md</a>:
 <pre>
 cd JPMC-tech-task-3-py3
 npm start

@@ -10,3 +10,7 @@ pip install python-dateutil
 <br></br>
 Now, go to Graph.tsx file using the VSCode editor and save it. Refresh the localhost portal :tada:
 ![image](https://user-images.githubusercontent.com/89456649/166145067-38d3659f-34a4-422c-b5c4-adb37c91357b.png)
+<b>Error:</b> git commit -m 'Create Patch File' </br>
+error: pathspec 'Patch' did not match any file(s) known to git
+error: pathspec 'File'' did not match any file(s) known to git
+<b>Solution:</b> git commit -m "Create Patch File"

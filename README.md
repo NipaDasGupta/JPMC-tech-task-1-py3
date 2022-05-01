@@ -107,3 +107,4 @@ npm start
 * Time to open VSCode to alter the 'Graph.tsx' to the client side react application, make changes in 'Graph.tsk' in three areas and make changes in 'DataManipulator.ts'. Refresh the website and click <b>'Start Streaming Data'</b> button :tada: as shown below:
 ![image](https://user-images.githubusercontent.com/89456649/166147077-00b02e7d-3521-4951-a57b-2a6189906a72.png)
 <br/> 
+* Submit your patch file on the right module page

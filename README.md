@@ -92,7 +92,7 @@ git format-patch -1 HEAD
 
 * Clone the "JPMC-tech-task-3-py3" repository using this command:
 <pre>
-git clone https://github.com/insidesherpa/JPMC-tech-task-2-py3.git
+git clone https://github.com/insidesherpa/JPMC-tech-task-3-py3.git
 </pre>
 * Start the server application in one terminal using this command:
 <pre>

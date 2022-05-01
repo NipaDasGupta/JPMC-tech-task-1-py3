@@ -77,3 +77,12 @@ It'll open index page called 'Bank & Merge Co Task 2" in a localhost portal 3000
 ![image](https://user-images.githubusercontent.com/89456649/166106636-d4e3761e-e7de-4a08-bd50-2d25ee983a39.png)
 * Time to open VSCode to alter the 'App.tsx' to the client side react application, make changes in 'App.tsk' in three areas and make changes in 'Graph.tsk'. Refresh the website and click <b>'Start Streaming Data'</b> button :tada: as shown below:
 ![image](https://user-images.githubusercontent.com/89456649/166136593-32291ab2-2487-4baa-9301-1313fad69756.png)
+* Create a patch file by following this command:
+<pre>
+cd JPMC-tech-task-2-PY3
+git add -A
+git config user.email "<your_email_address>"
+git config user.name "<your_name>"
+git commit -m 'Create Patch File'
+git format-patch -1 HEAD
+</pre>

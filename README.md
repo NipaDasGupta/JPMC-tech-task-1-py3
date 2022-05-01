@@ -1,6 +1,7 @@
 # Software Engineering Virtual Experience :walking:
 
-blah blah blah
+![0001](https://user-images.githubusercontent.com/89456649/166150516-79bb1826-a7b9-4c9e-bbec-e6aa4160eb90.jpg)
+
 ## Tasks
 <br />
 
@@ -180,4 +181,4 @@ Note: You may need to (hard) refresh the link to the public gdrive to see all of
 <p>To make the changes necessary to complete the objectives of this task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/making_changes_m2_v2.pdf">follow this guide</a>.</p>
 
 <h2>How to submit your work</h2>
-<p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/88AisH7iuw3L5N5ig">JPM Module 2 Page</a>.</p>
+<p>A patch file is what is required from you to submit.

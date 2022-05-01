@@ -5,7 +5,7 @@ pip install python-dateutil
 </pre>
 <b>Erorr:</b> Cannot find module '@jpmorganchase/perspective'.
 ![image](https://user-images.githubusercontent.com/89456649/166144619-87aeb6ee-661f-452a-8fee-07e0e56b41a1.png)
-<b>Solution:</b> Copy the <i>'@jpmorganchase'</i> folder from JPMC-tech-task-2-PY3/node-module and paste it inside the JPMC-tech-task-3-py3/node-module. 
+<b>Solution:</b> Copy the <i>'@jpmorganchase'</i> folder from 'JPMC-tech-task-2-PY3/node-module' and paste it inside the 'JPMC-tech-task-3-py3/node-module'. 
 ![image](https://user-images.githubusercontent.com/89456649/166144854-a1e52730-7330-491b-be48-f907b73e35c6.png)
 <br></br>
 Now, go to Graph.tsx file using VSCode editor and save it and refresh the localhost portal :tada:

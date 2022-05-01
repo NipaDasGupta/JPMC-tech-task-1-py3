@@ -9,4 +9,4 @@ pip install python-dateutil
 ![image](https://user-images.githubusercontent.com/89456649/166145067-38d3659f-34a4-422c-b5c4-adb37c91357b.png)
 <br></br>
 Now, go to Graph.tsx file using VSCode editor and save it and refresh the localhost portal :tada:
-![image](https://user-images.githubusercontent.com/89456649/166144984-7c6dbfe7-ebdc-4b51-af23-8aa5e250fdfe.png)
+![image](https://user-images.githubusercontent.com/89456649/166145067-38d3659f-34a4-422c-b5c4-adb37c91357b.png)

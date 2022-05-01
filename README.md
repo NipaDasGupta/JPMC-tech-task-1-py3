@@ -81,8 +81,8 @@ It'll open index page called 'Bank & Merge Co Task 2" in a localhost portal 3000
 <pre>
 cd JPMC-tech-task-2-PY3
 git add -A
-git config user.email "<your_email_address>"
-git config user.name "<your_name>"
+git config user.email "your_email_address"
+git config user.name "your_name"
 git commit -m 'Create Patch File'
 git format-patch -1 HEAD
 </pre>

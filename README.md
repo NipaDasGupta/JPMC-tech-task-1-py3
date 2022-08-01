@@ -67,7 +67,6 @@ Once installation is completed successfully, execute this command on the command
 node -v
 npm -v
 </pre>
-![image](https://user-images.githubusercontent.com/89456649/166104012-0109dc2e-c1b1-4870-af54-9015275b89e7.png)
 * Install Visual C++ Build Tool and select "Visual C++ build tool" to install, then run this on command prompt:
 <pre>
 npm config set msvs_version 2017
